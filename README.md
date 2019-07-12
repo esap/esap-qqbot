@@ -1,2 +1,3 @@
-# esap-qq
-ESAP-QQ机器人插件
+# ESAP-QQ机器人
+
+cleverqq插件
